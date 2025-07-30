@@ -4,7 +4,7 @@ from groq import Groq
 
 from groq import Groq
 
-client = Groq(api_key="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")  # Replace with your actual key
+client = Groq(api_key="YOUR_GROQ_API")  # Replace with your actual key
 
 
 # 🧠 Keywords for ATS Scoring
